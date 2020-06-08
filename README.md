@@ -1,2 +1,3 @@
 # Project-1
 This a project for assignment!
+I am editing the README file. Adding some more details about the project description.
